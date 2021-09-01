@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-typescript-redux-saga",
+  "version": "0.9.9",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "saga",
+    "redux"
+  ],
+  "description": "The base TypeScript template for Create React App.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
